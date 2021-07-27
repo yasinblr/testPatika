@@ -1,1 +1,2 @@
 # testPatika
+test amaçlıdır
